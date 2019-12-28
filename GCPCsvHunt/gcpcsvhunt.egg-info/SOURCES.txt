@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+gcpcsvhunt/gcpcsvhunt.py
+gcpcsvhunt.egg-info/PKG-INFO
+gcpcsvhunt.egg-info/SOURCES.txt
+gcpcsvhunt.egg-info/dependency_links.txt
+gcpcsvhunt.egg-info/requires.txt
+gcpcsvhunt.egg-info/top_level.txt
